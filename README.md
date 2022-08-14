@@ -9,3 +9,6 @@ index=_internal | stats c by sourcetype | sendalert s3_upload param.bucket_name=
 For how to configure:
 
 https://www.youtube.com/watch?v=qYI__Pxa3bI
+  
+Appreciate if you could donate amazon gift cards or any gift cards. virtual cards can be shared to below email address:
+splunkprofessionalservices@gmail.com
